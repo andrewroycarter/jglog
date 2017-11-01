@@ -22,6 +22,7 @@ cabal.project.local
 
 .DS_Store
 .vscode
+set-server-key.sh
 
 .stack-work/
 jglog.cabal
